@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Build outputs
+build/
+dist/
+*.spec
+
+# Local/debug/test artifacts
+create_locked_file.py
+drag_drop_debug.py
+test_*.py
+test_*.txt
+ui/drag_debug.html
+requirements - 副本*.txt
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
